@@ -42,9 +42,3 @@ print(c)
 
 
 
-#Invalid variables
-'''
-2name - variable name should not start with number
-my-name - variable name should not include hyphen
-class=5 - 
-'''
