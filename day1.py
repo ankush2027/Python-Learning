@@ -3,7 +3,7 @@ name="Messi"
 age=37
 is_goat=True
 half_age=age/2
-
+print("# this is hi")
 
 print(name)
 print(age)
