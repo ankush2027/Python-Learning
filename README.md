@@ -1,3 +1,15 @@
 # Python Fundamentals
-## Day 1 + Day 2 progress
-Your local content here...
+
+This repository documents my journey of learning Python from absolute basics
+using the official Python documentation only.
+
+## Progress Log
+
+### Day 1
+- Basics
+- Running Python
+- Variables
+
+### Day 2
+- input()
+- String
