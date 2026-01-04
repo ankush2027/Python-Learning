@@ -13,3 +13,8 @@ using the official Python documentation only.
 ### Day 2
 - input()
 - String
+
+## Day 3
+- Learned conditional logic: if / elif / else
+- Learned truthy/falsy values
+
