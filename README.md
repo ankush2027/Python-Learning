@@ -1,7 +1,7 @@
 # Python Fundamentals
 
 This repository documents my journey of learning Python from absolute basics
-using the official Python documentation only.
+using the official Python documentation .
 
 ## Progress Log
 
@@ -18,3 +18,6 @@ using the official Python documentation only.
 - Learned conditional logic: if / elif / else
 - Learned truthy/falsy values
 
+## Day 4
+- Learned for and while loops
+- range(),break,continue
