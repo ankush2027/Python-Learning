@@ -21,3 +21,6 @@ using the official Python documentation .
 ## Day 4
 - Learned for and while loops
 - range(),break,continue
+
+## Day 5
+- Functions , return statements
