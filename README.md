@@ -23,4 +23,8 @@ using the official Python documentation .
 - range(),break,continue
 
 ## Day 5
-- Functions , return statements
+- Functions 
+- return statements
+
+## Day 6
+- Lists

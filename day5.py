@@ -1,45 +1,45 @@
-# #Function basics
+#Function basics
 
-# def greet():
-#     name=input("Hey there ! what's your name : ")
-#     print("Hello",name,"👋")
+def greet():
+    name=input("Hey there ! what's your name : ")
+    print("Hello",name,"👋")
 
-# greet()
-
-
-# #Sqaure of a number
-# def square():
-#     number=int(input("Enter a number : "))
-#     sqr=number**2
-#     print("The square of",number,"is",sqr)
-
-# square()
+greet()
 
 
-# #Even and odd
-# def is_even():
-#     number=int(input("Enter a number :"))
-#     if number%2==0:
-#         return True
-#     else:
-#         return False
+#Sqaure of a number
+def square():
+    number=int(input("Enter a number : "))
+    sqr=number**2
+    print("The square of",number,"is",sqr)
+
+square()
+
+
+#Even and odd
+def is_even():
+    number=int(input("Enter a number :"))
+    if number%2==0:
+        return True
+    else:
+        return False
     
-# is_even()
+is_even()
 
 
-# #Name
-# def full_name(first,last):
-#     print("Hello",first,last)
+#Name
+def full_name(first,last):
+    print("Hello",first,last)
 
-# full_name("John","Wick")
+full_name("John","Wick")
 
-# #Understanding return
-# def demo():
-#     print("A")
-#     return "B"
+#Understanding return
+def demo():
+    print("A")
+    return "B"
 
-# demo()
-# print(demo()) #This will not return none because you have the return in function
+demo()
+print(demo()) #This will not return none because you have the return in function
 
 
 #Controlled input loop
