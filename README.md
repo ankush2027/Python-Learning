@@ -28,3 +28,6 @@ using the official Python documentation .
 
 ## Day 6
 - Lists
+
+## Day 7
+- Lists + loops
