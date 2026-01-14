@@ -31,3 +31,6 @@ using the official Python documentation .
 
 ## Day 7
 - Lists + loops
+
+## Day 8
+- Dictionaries
