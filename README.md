@@ -5,35 +5,34 @@ using the official Python documentation .
 
 ## Progress Log
 
-### Day 1
-- Basics
-- Running Python
-- Variables
+## Basics
 
-### Day 2
-- input()
-- String
+## Running Python
 
-## Day 3
-- Learned conditional logic: if / elif / else
-- Learned truthy/falsy values
+## Variables
 
-## Day 4
-- Learned for and while loops
-- range(),break,continue
+## input()
 
-## Day 5
-- Functions 
-- return statements
+## String
 
-## Day 6
-- Lists
+## conditional logic: if / elif / else
 
-## Day 7
-- Lists + loops
+## truthy/falsy values
 
-## Day 8
-- Dictionaries
+## for and while loops
 
-## Day 9
-- Sets
+## Range(),break,continue
+
+## Functions 
+
+## Return statements
+
+## Lists
+
+## Lists + loops
+
+## Dictionaries
+
+## Sets
+
+## CSV Data cleaning pipeline
