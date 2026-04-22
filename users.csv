@@ -1,0 +1,6 @@
+id,name,age,email,signup_date
+1,John Doe,28,john@gmail.com,2023-01-01
+2,Jane Smith,,jane@gmail,2023-02-10
+3,Bob,45,,2023-03-15
+4,Alice,22,alice@gmail.com,
+5,,30,test@test.com,2023-05-01

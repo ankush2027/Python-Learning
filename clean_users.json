@@ -1,0 +1,9 @@
+[
+    {
+        "id": "1",
+        "name": "John Doe",
+        "age": "28",
+        "email": "john@gmail.com",
+        "signup_date": "2023-01-01"
+    }
+]
