@@ -32,3 +32,35 @@ print(result1)
 print(result2)
 
 
+
+#Reverse the list and find the largest and smallest number in the list
+def rev(nums):
+    reversed=nums
+    large=reversed[0]
+    small=reversed[0]
+    left=0
+    right=len(nums)-1
+    while left<right:
+        reversed[left],reversed[right]=reversed[right],reversed[left]
+        left+=1
+        right-=1
+
+    for num in reversed:
+        if num > large:
+            large=num
+        if num < small:
+            small=num
+    return {
+    "reversed": nums,
+    "largest": large,
+    "smallest": small
+}
+
+n=[1,2,3,4,5]
+print(rev(n))
+
+            
+
+
+
+
